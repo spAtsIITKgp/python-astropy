@@ -5,4 +5,4 @@ The Messier objects are a set of 110 astronomical objects catalogued by the Fren
 For example, **Messier 1** is a supernova remnant, known as the **Crab Nebula**, and the great spiral **Andromeda Galaxy** is **M31**.
 
 ## What this project does
-Given the messier object number, you will be presented with the details of concerned object, its projection in **Mollweide View**, and a plot of stars in its vicinity or the **skymap** of the object. This has been done with the help of **Astropy library**.
+Given the messier object number, you will be presented with the details of concerned object, its projection in **Mollweide View**, and a plot of stars in its vicinity, or the **skymap** of the object. This has been done with the help of **Astropy library**.
